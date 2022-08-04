@@ -45,7 +45,7 @@
 
 <!-- Framework for building this project:-->
 
-- [React](https://reactjs.org/)
+- [HTML AND CSS]
 
 
 ## Features
